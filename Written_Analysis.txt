@@ -1,0 +1,49 @@
+Analysis of PyCity Schools
+
+This report provides a detailed analysis of school performance metrics based on data from the academic year. It covers various aspects such as overall district summary, individual school summaries, performance based on grade levels, and breakdowns by school spending, size, and type.
+
+District Summary:
+
+Total Schools: 15
+Total Students: 39,170
+Total Budget: $24,649,428.00
+Average Math Score: 78.99
+Average Reading Score: 81.88
+% Passing Math: 74.98%
+% Passing Reading: 85.81%
+% Overall Passing Rate: 80.43%
+
+
+School Summary
+
+Top Performing Schools:
+
+	•	Schools such as Cabrera High School, Thomas High School, and Pena High School lead in overall passing rates, exceeding 95%. 
+
+
+Bottom Performing Schools:
+
+	•	Rodriguez High School, Figueroa High School, and Huang High School have lower overall passing rates, around 73%. They are all district schools.
+
+
+Impact of School Type:
+
+	•	Charter schools consistently outperform district schools across all metrics, including average scores and passing rates. This suggests that the charter school model may contribute positively to academic achievement. 
+
+ School Size:
+
+	•	Smaller and medium-sized schools (under 2000 students) generally exhibit higher average scores and passing rates compared to larger schools. This trend indicates potential benefits in managing smaller student populations.
+
+	•	Schools with a per student budget less than $585 show the highest average math score (83.46) and reading score (83.93).
+
+	•	As spending per student increases, there is a slight decrease in average scores. Schools in the highest spending range ($645-675) have the lowest average math score (76.99) and reading score (81.03).
+
+Next Steps:
+
+	•	Further analysis on policies and practices from high-performing charter schools to identify strategies that could be implemented in district schools to enhance student engagement and academic support, particularly in the larger schools. 
+
+	•	Identifying how high performing schools with mid -low budget allocate their funds for success.
+
+
+
+
